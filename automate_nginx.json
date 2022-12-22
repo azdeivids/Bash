@@ -1,0 +1,4 @@
+{
+	"fileUris": ["https://raw.githubusercontent.com/azdeivids/Bash/main/nginx_install.sh"],
+	"commandToExecute": "./nginx_install.sh"
+}
